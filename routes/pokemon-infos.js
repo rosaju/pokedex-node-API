@@ -604,21 +604,21 @@ router.get('/', function (req, res, next) {
             englishName: "Slowpoke",
             japaneseName: "Yadon",
             primaryType: "water",
-            secondaryType: "psychic ",
+            secondaryType: "psychic",
             pokedexNumber: 79
         },
         {
             englishName: "Slowbro",
             japaneseName: "Yadoran",
             primaryType: "water",
-            secondaryType: "psychic ",
+            secondaryType: "psychic",
             pokedexNumber: 80
         },
         {
             englishName: "Mega Slowbro",
             japaneseName: "Mega Yadoran",
             primaryType: "water",
-            secondaryType: "psychic ",
+            secondaryType: "psychic",
             pokedexNumber: 80
         },
         {
